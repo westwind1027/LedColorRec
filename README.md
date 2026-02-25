@@ -47,9 +47,9 @@ LED颜色识别软件可以检测LED灯的颜色，可以将摄像头或相机�
 
 1. LedRecCmd.py --- 执行检测任务的程序。
 2. LedRecConsole.py --- 颜色识别软件的控制台程序。
-3. camera\_setting.yaml --- 默认相机参数文件。
-4. roi\_setting.yaml --- 默认检测框BOX参数文件。
-5. prj\_setting.yaml --- 默认项目参数文件。
+3. configs\\camera\_setting.yaml --- 默认相机参数文件。
+4. configs\\roi\_setting.yaml --- 默认检测框BOX参数文件。
+5. configs\\prj\_setting.yaml --- 默认项目参数文件。
 6. 安装python3.8及以上版本；
 7. 运行命令：pip install -r requirements.txt 安装所需python包
 8. 硬件方面只需要安装摄像头或工业相机即可。由于是使用OpenCV抓取的摄像头或相机图像，所以选取工业相机时注意其对OpenCV的支持，大部分相机都是支持OpenCV的。USB摄像头最简单，插上就可以使用。
