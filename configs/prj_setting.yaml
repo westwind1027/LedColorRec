@@ -1,0 +1,20 @@
+﻿box_color:  # 设置box颜色: (b,g,r),需用如下方式表示
+  blue: !!python/tuple [255,0,0]
+  cyan: !!python/tuple [255,255,0]
+  green: !!python/tuple [0, 255, 0]
+  yellow: !!python/tuple [0,255,255]
+  red: !!python/tuple [0,0,255]
+  purple: !!python/tuple [255,0,255]
+  white: !!python/tuple [255,255,255]
+  gray: !!python/tuple [255,255,255]
+  black: !!python/tuple [255,255,255]
+  others: !!python/tuple [255,255,255]
+
+cam_skip: 2 # 忽略摄像头启动时的前几张照片
+boxline_width: 2 # 设置BOX线宽
+cap_delay: 100 # 每张照片之间间隔100ms
+sample_count: 10 #图片采样数量
+color_count: 6 #颜色判断最小稳定数量
+csv_create: 0 # “1”表示生成csv，“0”表示不生成。
+result_path: "C:\\report\\" # csv存放图形结果的路径
+check_pw: "BU3test"

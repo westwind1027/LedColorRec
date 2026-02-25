@@ -1,0 +1,130 @@
+box1_blue_0.790000{'black': 210, 'blue': 194, 'white': 36, 'cyan': 1}
+box2_blue_0.800000{'black': 125, 'blue': 229, 'purple': 2, 'white': 40, 'cyan': 4}
+box3_blue_0.830000{'black': 84, 'blue': 267, 'white': 38, 'cyan': 10, 'others': 1}
+box4_blue_0.790000{'black': 66, 'blue': 269, 'cyan': 21, 'white': 44}
+box5_blue_0.820000{'black': 62, 'blue': 282, 'cyan': 18, 'white': 38}
+box6_blue_0.880000{'blue': 350, 'black': 4, 'cyan': 13, 'white': 33}
+box7_others_0.690000{'black': 290, 'blue': 90, 'gray': 2, 'white': 18}
+box8_blue_0.810000{'black': 93, 'blue': 255, 'others': 1, 'cyan': 15, 'white': 36}
+box9_blue_0.830000{'black': 131, 'blue': 231, 'cyan': 5, 'white': 33}
+box10_blue_0.840000{'black': 99, 'green': 1, 'gray': 1, 'blue': 258, 'others': 1, 'white': 37, 'cyan': 3}
+box11_blue_0.810000{'black': 187, 'blue': 182, 'others': 1, 'cyan': 9, 'white': 21}
+box12_blue_0.850000{'black': 75, 'blue': 281, 'purple': 1, 'cyan': 7, 'white': 36}
+box13_blue_0.840000{'black': 110, 'blue': 249, 'yellow': 3, 'others': 1, 'white': 31, 'cyan': 6}
+box1_blue_0.870000{'black': 75, 'blue': 323, 'white': 41, 'cyan': 2}
+box2_blue_0.830000{'black': 7, 'blue': 326, 'white': 54, 'cyan': 11, 'others': 2}
+box3_blue_0.800000{'black': 3, 'blue': 315, 'white': 55, 'cyan': 26, 'others': 1}
+box4_blue_0.750000{'blue': 294, 'cyan': 41, 'white': 58, 'black': 7}
+box5_blue_0.800000{'blue': 314, 'black': 3, 'cyan': 28, 'white': 52, 'others': 3}
+box6_blue_0.810000{'blue': 318, 'cyan': 30, 'others': 2, 'white': 47, 'black': 3}
+box7_blue_0.810000{'black': 200, 'blue': 174, 'white': 26}
+box8_blue_0.790000{'blue': 311, 'others': 2, 'cyan': 37, 'white': 48, 'black': 2}
+box9_blue_0.830000{'black': 12, 'blue': 320, 'cyan': 18, 'white': 47, 'others': 3}
+box10_blue_0.820000{'black': 1, 'blue': 327, 'white': 58, 'cyan': 13, 'others': 1}
+box11_blue_0.870000{'black': 39, 'blue': 314, 'others': 3, 'cyan': 10, 'white': 34}
+box12_blue_0.790000{'blue': 308, 'black': 10, 'cyan': 30, 'white': 52}
+box13_blue_0.810000{'black': 14, 'blue': 314, 'others': 1, 'white': 53, 'cyan': 18}
+box1_blue_0.870000{'black': 74, 'blue': 323, 'white': 41, 'cyan': 3}
+box2_blue_0.830000{'black': 8, 'blue': 326, 'white': 54, 'cyan': 12}
+box3_blue_0.790000{'black': 4, 'blue': 314, 'white': 55, 'cyan': 26, 'others': 1}
+box4_blue_0.750000{'blue': 294, 'cyan': 41, 'white': 58, 'black': 7}
+box5_blue_0.790000{'blue': 311, 'black': 2, 'cyan': 32, 'white': 52, 'others': 3}
+box6_blue_0.810000{'blue': 319, 'cyan': 29, 'others': 2, 'white': 48, 'black': 2}
+box7_blue_0.820000{'black': 192, 'blue': 182, 'white': 26}
+box8_blue_0.790000{'blue': 312, 'others': 3, 'cyan': 37, 'white': 48}
+box9_blue_0.830000{'black': 13, 'blue': 319, 'cyan': 18, 'white': 47, 'others': 3}
+box10_blue_0.820000{'black': 1, 'blue': 328, 'white': 58, 'cyan': 12, 'others': 1}
+box11_blue_0.870000{'black': 38, 'blue': 315, 'others': 3, 'cyan': 10, 'white': 34}
+box12_blue_0.800000{'blue': 309, 'black': 11, 'cyan': 26, 'white': 52, 'others': 2}
+box13_blue_0.820000{'black': 15, 'blue': 313, 'others': 2, 'white': 53, 'cyan': 17}
+box1_blue_0.870000{'black': 77, 'blue': 321, 'white': 41, 'cyan': 2}
+box2_blue_0.830000{'black': 7, 'blue': 326, 'white': 54, 'cyan': 12, 'others': 1}
+box3_blue_0.790000{'black': 3, 'blue': 314, 'white': 55, 'cyan': 26, 'others': 2}
+box4_blue_0.750000{'blue': 294, 'cyan': 41, 'white': 58, 'black': 7}
+box5_blue_0.790000{'blue': 312, 'black': 3, 'cyan': 31, 'white': 52, 'others': 2}
+box6_blue_0.800000{'blue': 318, 'cyan': 31, 'others': 1, 'white': 47, 'black': 3}
+box7_blue_0.820000{'black': 193, 'blue': 181, 'white': 26}
+box8_blue_0.790000{'blue': 313, 'others': 2, 'cyan': 37, 'white': 48}
+box9_blue_0.820000{'black': 12, 'blue': 318, 'cyan': 22, 'white': 47, 'others': 1}
+box10_blue_0.820000{'black': 3, 'blue': 326, 'white': 58, 'cyan': 12, 'others': 1}
+box11_blue_0.870000{'black': 37, 'blue': 317, 'cyan': 10, 'white': 35, 'others': 1}
+box12_blue_0.800000{'blue': 309, 'black': 11, 'cyan': 26, 'white': 52, 'others': 2}
+box13_blue_0.810000{'black': 16, 'blue': 312, 'cyan': 19, 'white': 53}
+box1_blue_0.870000{'black': 77, 'blue': 321, 'white': 41, 'cyan': 2}
+box2_blue_0.830000{'black': 8, 'blue': 324, 'white': 56, 'cyan': 11, 'others': 1}
+box3_blue_0.790000{'black': 4, 'blue': 313, 'white': 55, 'cyan': 27, 'others': 1}
+box4_blue_0.750000{'blue': 294, 'cyan': 40, 'white': 58, 'black': 7, 'others': 1}
+box5_blue_0.790000{'blue': 314, 'black': 1, 'cyan': 33, 'white': 52}
+box6_blue_0.810000{'blue': 319, 'cyan': 28, 'others': 3, 'black': 2, 'white': 48}
+box7_blue_0.820000{'black': 188, 'blue': 186, 'white': 26}
+box8_blue_0.790000{'blue': 312, 'others': 2, 'cyan': 36, 'white': 47, 'black': 3}
+box9_blue_0.830000{'black': 14, 'blue': 318, 'cyan': 20, 'white': 46, 'others': 2}
+box10_blue_0.820000{'black': 1, 'blue': 327, 'white': 58, 'cyan': 13, 'others': 1}
+box11_blue_0.880000{'black': 36, 'blue': 318, 'cyan': 8, 'others': 3, 'white': 35}
+box12_blue_0.800000{'blue': 311, 'black': 9, 'cyan': 27, 'white': 52, 'others': 1}
+box13_blue_0.810000{'black': 16, 'blue': 312, 'others': 1, 'white': 54, 'cyan': 17}
+box1_blue_0.860000{'black': 79, 'blue': 318, 'white': 41, 'cyan': 3}
+box2_blue_0.830000{'black': 8, 'blue': 326, 'white': 54, 'cyan': 11, 'others': 1}
+box3_blue_0.790000{'black': 2, 'blue': 315, 'white': 55, 'cyan': 27, 'others': 1}
+box4_blue_0.750000{'blue': 294, 'cyan': 41, 'white': 59, 'black': 6}
+box5_blue_0.790000{'blue': 313, 'black': 3, 'cyan': 30, 'white': 52, 'others': 2}
+box6_blue_0.800000{'blue': 317, 'cyan': 32, 'others': 1, 'white': 49, 'black': 1}
+box7_blue_0.820000{'black': 187, 'blue': 187, 'white': 26}
+box8_blue_0.790000{'blue': 312, 'others': 3, 'cyan': 35, 'black': 2, 'white': 48}
+box9_blue_0.820000{'black': 10, 'blue': 320, 'cyan': 19, 'white': 49, 'others': 2}
+box10_blue_0.820000{'black': 1, 'blue': 328, 'white': 58, 'cyan': 13}
+box11_blue_0.870000{'black': 35, 'blue': 320, 'others': 1, 'cyan': 10, 'white': 34}
+box12_blue_0.800000{'blue': 312, 'black': 8, 'cyan': 26, 'white': 52, 'others': 2}
+box13_blue_0.810000{'black': 15, 'blue': 313, 'others': 1, 'white': 53, 'cyan': 18}
+box1_blue_0.870000{'black': 73, 'blue': 325, 'white': 41, 'cyan': 2}
+box2_blue_0.830000{'black': 8, 'blue': 325, 'white': 54, 'cyan': 11, 'others': 2}
+box3_blue_0.790000{'black': 5, 'blue': 313, 'white': 55, 'cyan': 27}
+box4_blue_0.740000{'blue': 294, 'cyan': 43, 'white': 58, 'black': 5}
+box5_blue_0.790000{'blue': 314, 'black': 3, 'cyan': 31, 'white': 51, 'others': 1}
+box6_blue_0.810000{'blue': 318, 'cyan': 30, 'others': 2, 'white': 47, 'black': 3}
+box7_blue_0.820000{'black': 193, 'blue': 181, 'white': 26}
+box8_blue_0.790000{'blue': 312, 'others': 2, 'cyan': 37, 'white': 48, 'black': 1}
+box9_blue_0.830000{'black': 10, 'blue': 320, 'cyan': 21, 'others': 3, 'white': 46}
+box10_blue_0.820000{'black': 2, 'blue': 327, 'white': 58, 'cyan': 12, 'others': 1}
+box11_blue_0.870000{'black': 34, 'blue': 320, 'others': 2, 'cyan': 9, 'white': 35}
+box12_blue_0.800000{'blue': 310, 'black': 9, 'cyan': 26, 'white': 53, 'others': 2}
+box13_blue_0.810000{'black': 14, 'blue': 314, 'others': 1, 'white': 53, 'cyan': 18}
+box1_blue_0.870000{'black': 79, 'blue': 319, 'white': 41, 'cyan': 2}
+box2_blue_0.830000{'black': 10, 'blue': 324, 'white': 54, 'cyan': 11, 'others': 1}
+box3_blue_0.790000{'black': 3, 'blue': 313, 'white': 55, 'cyan': 26, 'others': 3}
+box4_blue_0.750000{'blue': 294, 'cyan': 39, 'white': 59, 'black': 6, 'others': 2}
+box5_blue_0.790000{'blue': 313, 'black': 2, 'cyan': 29, 'white': 52, 'others': 4}
+box6_blue_0.810000{'blue': 318, 'cyan': 30, 'others': 2, 'white': 47, 'black': 3}
+box7_blue_0.810000{'black': 198, 'blue': 176, 'white': 26}
+box8_blue_0.790000{'blue': 312, 'others': 2, 'cyan': 36, 'white': 48, 'black': 2}
+box9_blue_0.820000{'black': 14, 'blue': 316, 'cyan': 22, 'white': 46, 'others': 2}
+box10_blue_0.830000{'black': 3, 'blue': 327, 'white': 58, 'cyan': 11, 'others': 1}
+box11_blue_0.870000{'black': 37, 'blue': 317, 'others': 2, 'cyan': 10, 'white': 34}
+box12_blue_0.790000{'blue': 309, 'black': 8, 'cyan': 28, 'white': 53, 'others': 2}
+box13_blue_0.810000{'black': 13, 'blue': 315, 'cyan': 19, 'white': 53}
+box1_blue_0.870000{'black': 77, 'blue': 321, 'white': 41, 'cyan': 2}
+box2_blue_0.830000{'black': 9, 'blue': 324, 'white': 54, 'cyan': 11, 'others': 2}
+box3_blue_0.790000{'black': 3, 'blue': 315, 'white': 55, 'cyan': 27}
+box4_blue_0.750000{'blue': 294, 'cyan': 40, 'white': 59, 'black': 7}
+box5_blue_0.790000{'blue': 313, 'cyan': 29, 'white': 52, 'others': 4, 'black': 2}
+box6_blue_0.800000{'blue': 317, 'cyan': 30, 'others': 3, 'white': 48, 'black': 2}
+box7_blue_0.820000{'black': 191, 'blue': 183, 'white': 26}
+box8_blue_0.790000{'blue': 312, 'others': 2, 'cyan': 37, 'white': 48, 'black': 1}
+box9_blue_0.830000{'black': 11, 'blue': 319, 'cyan': 19, 'white': 48, 'others': 3}
+box10_blue_0.820000{'black': 2, 'blue': 326, 'white': 58, 'cyan': 13, 'others': 1}
+box11_blue_0.870000{'black': 36, 'blue': 318, 'others': 1, 'cyan': 11, 'white': 34}
+box12_blue_0.800000{'blue': 309, 'black': 11, 'cyan': 27, 'white': 52, 'others': 1}
+box13_blue_0.810000{'black': 17, 'blue': 311, 'cyan': 17, 'white': 54, 'others': 1}
+box1_blue_0.870000{'black': 73, 'blue': 325, 'white': 41, 'cyan': 2}
+box2_blue_0.830000{'black': 6, 'blue': 327, 'white': 54, 'cyan': 12, 'others': 1}
+box3_blue_0.790000{'black': 4, 'blue': 314, 'white': 54, 'cyan': 27, 'others': 1}
+box4_blue_0.750000{'blue': 294, 'cyan': 39, 'white': 58, 'black': 7, 'others': 2}
+box5_blue_0.790000{'blue': 314, 'black': 4, 'cyan': 30, 'white': 51, 'others': 1}
+box6_blue_0.810000{'blue': 318, 'cyan': 30, 'others': 2, 'white': 46, 'black': 4}
+box7_blue_0.820000{'black': 192, 'blue': 182, 'white': 26}
+box8_blue_0.790000{'blue': 314, 'cyan': 35, 'others': 2, 'white': 48, 'black': 1}
+box9_blue_0.820000{'black': 11, 'blue': 318, 'cyan': 22, 'white': 48, 'others': 1}
+box10_blue_0.820000{'black': 3, 'blue': 325, 'white': 59, 'cyan': 12, 'others': 1}
+box11_blue_0.870000{'black': 42, 'blue': 312, 'others': 1, 'cyan': 10, 'white': 35}
+box12_blue_0.800000{'blue': 311, 'black': 10, 'cyan': 25, 'white': 52, 'others': 2}
+box13_blue_0.810000{'black': 16, 'blue': 312, 'others': 2, 'white': 53, 'cyan': 17}

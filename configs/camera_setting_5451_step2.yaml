@@ -1,0 +1,14 @@
+﻿cam_frame_width: 3072 #摄像头图片宽度cap.set.id-3  注意opencv设置海康相机cap.set时，获取针的宽度与高度一定要跟海康相机里的宽度一致，否则读出的图片是黑屏；
+cam_frame_height: 2048 #摄像头图片高度cap.set.id-4
+cam_fps: 15 #摄像头图片刷新率
+cam_brightness: 255 #摄像头图片亮度cap.set.id-10
+cam_contrast: 0 #摄像头图片对比度cap.set.id-11
+cam_saturation: 64 #摄像头图片饱和度cap.set.id-12
+cam_hue: 128 #摄像头图片hue值cap.set.id-13
+cam_gain: 200 #摄像头增益cap.set.id-14
+cam_exposure: 10000 #摄像头曝光cap.set.id-15
+cam_temperature: 5000 #摄像头色温cap.set.id-23
+# cam_zoom: 400 #摄像头缩放cap.set.id-27
+# cam_focus: 45 #摄像头焦距cap.set.id-28
+cam_id: 0 # 定义用哪个摄像头
+cam_reverse: 1 # "1"表示将获取图像旋转180度,"0"表示不旋转

@@ -1,0 +1,23 @@
+boxes:
+- - !!python/tuple
+    - 494
+    - 367
+  - !!python/tuple
+    - 514
+    - 387
+color_threshold: 0.7
+conf_enhance: 0
+noise_weight: 0.08
+roi:
+- - !!python/tuple
+    - 800
+    - 500
+  - !!python/tuple
+    - 1600
+    - 1100
+x_offset: 0
+x_size: 0
+y_offset: 0
+y_size: 0
+finetune_range: ''
+is_finetune: false

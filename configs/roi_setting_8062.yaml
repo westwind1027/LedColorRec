@@ -1,0 +1,95 @@
+boxes:
+- - !!python/tuple
+    - 110
+    - 240
+  - !!python/tuple
+    - 131
+    - 261
+- - !!python/tuple
+    - 155
+    - 240
+  - !!python/tuple
+    - 175
+    - 260
+- - !!python/tuple
+    - 200
+    - 240
+  - !!python/tuple
+    - 220
+    - 260
+- - !!python/tuple
+    - 245
+    - 240
+  - !!python/tuple
+    - 265
+    - 260
+- - !!python/tuple
+    - 290
+    - 240
+  - !!python/tuple
+    - 310
+    - 260
+- - !!python/tuple
+    - 340
+    - 240
+  - !!python/tuple
+    - 360
+    - 260
+- - !!python/tuple
+    - 385
+    - 240
+  - !!python/tuple
+    - 405
+    - 260
+- - !!python/tuple
+    - 430
+    - 240
+  - !!python/tuple
+    - 450
+    - 260
+- - !!python/tuple
+    - 475
+    - 240
+  - !!python/tuple
+    - 495
+    - 260
+- - !!python/tuple
+    - 520
+    - 240
+  - !!python/tuple
+    - 540
+    - 260
+- - !!python/tuple
+    - 565
+    - 240
+  - !!python/tuple
+    - 585
+    - 260
+- - !!python/tuple
+    - 615
+    - 240
+  - !!python/tuple
+    - 635
+    - 260
+- - !!python/tuple
+    - 660
+    - 240
+  - !!python/tuple
+    - 680
+    - 260
+color_threshold: 0.7
+conf_enhance: 0
+finetune_range: 5
+is_finetune: true
+noise_weight: 0.08
+roi:
+- - !!python/tuple
+    - 450
+    - 800
+  - !!python/tuple
+    - 1250
+    - 1400
+x_offset: -1
+x_size: 0
+y_offset: 4
+y_size: 0

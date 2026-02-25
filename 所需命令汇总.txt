@@ -1,0 +1,8 @@
+pyi-makespec Numled.py #先生成.spec文件
+pyinstaller -D Numled.spec   #修改好.spec文件后，编译打包命令
+pyuic5  -o cnn_camera_process.py cnn_camera_process.ui  #ui转py命令
+
+pyinstaller打包完成后，还需：
+1. 将utils复制到.exe同目录下；
+2. 将utils\_pycache_\torch_utils.cpython-38.pyc复制到utils目录中，并改名为torch_utils.pyc。
+3. 将python安装目录中的\Python38\Lib\site-packages里的"torch-1.7.0+cpu.dist-info","torchvision","torchvision-0.8.1+cpu.dist-info"三个文件夹复制到.exe同目录下。
