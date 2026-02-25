@@ -1,4 +1,4 @@
-LED颜色识别软件使用说明V1.0
+LED light color recognition
 
 # 简介
 
